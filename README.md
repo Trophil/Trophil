@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Trophily Wamalwa Misiko 👋
 
-<!--
-**Trophil/Trophil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python/Django developer passionate about building real-world applications that solve meaningful problems.  
+Currently focused on **web applications**, **e-commerce platforms**, and exploring **AI integrations** into everyday tools.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- Build backend systems using Django & REST API frameworks
+- Design user-friendly full-stack web applications
+- Experiment with AI (LLMs, chatbots, and automation tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Python, JavaScript
+- **Backend:** Django, Django REST Framework
+- **Frontend:** HTML, CSS, Bootstrap / Tailwind (if you use)
+- **Databases:** PostgreSQL / MySQL / SQLite
+- **Version Control:** Git & GitHub
+- **Other:** Linux, Docker (if you're learning), APIs
+
+### 🔥 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| **E-Commerce Store** | Full store: products, cart, orders, payments | Django, DRF, PostgreSQL |
+| **Task Manager Web App** | User accounts + dashboard + CRUD tasks | Django |
+| **AI Chat Assistant** | Simple chatbot using OpenAI / Llama | Python, REST API |
+
+➡️ *I'll help you build these — scroll down.*
+
+### 📫 Connect with Me
+LinkedIn: *www.linkedin.com/in/trophil-tech*  
+Email: *trophilyw@gmail.com*
